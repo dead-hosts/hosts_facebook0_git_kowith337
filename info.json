@@ -1,0 +1,16 @@
+{
+    "arguments": [],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
+    "commit_autosave_message": "Test of Facebook-Zero-Hosts-Block",
+    "currently_under_test": "0",
+    "days_until_next_test": "1",
+    "last_test": "0",
+    "list_name": "Facebook-Zero-Hosts-Block.list",
+    "name": "Facebook-Zero-Hosts-Block",
+    "ping": [
+        "kowith337"
+    ],
+    "raw_link": "https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt",
+    "stable": "0"
+}
