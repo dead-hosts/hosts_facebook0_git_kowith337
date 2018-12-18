@@ -1,0 +1,14 @@
+{
+    "/home/travis/build/dead-hosts/hosts_facebook0_git_kowith337/hosts_facebook0.list": {
+        "freebasics.com": {
+            "epoch": "1816300800",
+            "expiration_date": "23-jul-2027",
+            "state": "future"
+        },
+        "internet.org": {
+            "epoch": "1823817600",
+            "expiration_date": "18-oct-2027",
+            "state": "future"
+        }
+    }
+}
