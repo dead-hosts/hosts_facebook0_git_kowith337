@@ -11102,9 +11102,7 @@
             "z-m-static-lhr3-6.fbcdn.net",
             "z-m-static-lhr3-7.fbcdn.net",
             "z-m-static-lhr3-8.fbcdn.net",
-            "z-m-static-lhr3-9.fbcdn.net"
-        ],
-        "to_test": [
+            "z-m-static-lhr3-9.fbcdn.net",
             "z-m-static-lht1-1.fbcdn.net",
             "z-m-static-lht1-2.fbcdn.net",
             "z-m-static-lht1-3.fbcdn.net",
@@ -12646,10 +12644,11 @@
             "z-m-video-yyz3-9.fbcdn.net",
             "z-p1-rupload.facebook.com",
             "z-p2-api.facebook.com",
+            "z-p2.facebook.com",
             "z-p2-graph.facebook.com",
             "z-p2-rupload.facebook.com",
-            "z-p2-upload.facebook.com",
-            "z-p2.facebook.com"
-        ]
+            "z-p2-upload.facebook.com"
+        ],
+        "to_test": []
     }
 }
