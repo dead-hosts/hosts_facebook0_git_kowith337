@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_facebook0_git_kowith337/hosts_facebook0.list": {
-        "down": 10336,
+        "down": 0,
         "invalid": 0,
-        "tested": 10393,
-        "up": 57
+        "tested": 0,
+        "up": 0
     }
 }
