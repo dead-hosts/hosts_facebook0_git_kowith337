@@ -10918,9 +10918,7 @@
             "z-m-static-hkg1-3.fbcdn.net",
             "z-m-static-hkg1-4.fbcdn.net",
             "z-m-static-hkg1-5.fbcdn.net",
-            "z-m-static-hkg1-6.fbcdn.net"
-        ],
-        "to_test": [
+            "z-m-static-hkg1-6.fbcdn.net",
             "z-m-static-hkg1-7.fbcdn.net",
             "z-m-static-hkg1-8.fbcdn.net",
             "z-m-static-hkg1-9.fbcdn.net",
@@ -12650,6 +12648,7 @@
             "z-p2-upload.facebook.com",
             "z-p2.facebook.com",
             "z.c10r.facebook.com"
-        ]
+        ],
+        "to_test": []
     }
 }
