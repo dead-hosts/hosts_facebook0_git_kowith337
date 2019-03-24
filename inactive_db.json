@@ -10613,9 +10613,7 @@
             "z-m-static-arn3-4.fbcdn.net",
             "z-m-static-arn3-5.fbcdn.net",
             "z-m-static-arn3-6.fbcdn.net",
-            "z-m-static-arn3-7.fbcdn.net"
-        ],
-        "to_test": [
+            "z-m-static-arn3-7.fbcdn.net",
             "z-m-static-arn3-8.fbcdn.net",
             "z-m-static-arn3-9.fbcdn.net",
             "z-m-static-atl1-1.fbcdn.net",
@@ -12650,6 +12648,7 @@
             "z-p2-upload.facebook.com",
             "z-p2.facebook.com",
             "z.c10r.facebook.com"
-        ]
+        ],
+        "to_test": []
     }
 }
