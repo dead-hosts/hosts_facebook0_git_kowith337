@@ -10424,9 +10424,7 @@
             "z-m-scontent-syd3-4.fbcdn.net",
             "z-m-scontent-syd3-5.fbcdn.net",
             "z-m-scontent-syd3-6.fbcdn.net",
-            "z-m-scontent-syd3-7.fbcdn.net"
-        ],
-        "to_test": [
+            "z-m-scontent-syd3-7.fbcdn.net",
             "z-m-scontent-syd3-8.fbcdn.net",
             "z-m-scontent-syd3-9.fbcdn.net",
             "z-m-scontent-tpe1-1.fbcdn.net",
@@ -12650,6 +12648,7 @@
             "z-p2-upload.facebook.com",
             "z-p2.facebook.com",
             "z.c10r.facebook.com"
-        ]
+        ],
+        "to_test": []
     }
 }
