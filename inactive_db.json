@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_facebook0_git_kowith337/hosts_facebook0.list": {
-        "1554913648": [
+        "1555086492": [
             "edge-z-1-p2-shv-01-ams1.fbcdn.net",
             "edge-z-1-p2-shv-01-ams2.fbcdn.net",
             "edge-z-1-p2-shv-01-ams3.fbcdn.net",
@@ -10568,7 +10568,9 @@
             "z-m-static-amt1-4.fbcdn.net",
             "z-m-static-amt1-5.fbcdn.net",
             "z-m-static-amt1-6.fbcdn.net",
-            "z-m-static-amt1-7.fbcdn.net",
+            "z-m-static-amt1-7.fbcdn.net"
+        ],
+        "to_test": [
             "z-m-static-amt1-8.fbcdn.net",
             "z-m-static-amt1-9.fbcdn.net",
             "z-m-static-amt2-1.fbcdn.net",
@@ -12648,7 +12650,6 @@
             "z-p2-upload.facebook.com",
             "z-p2.facebook.com",
             "z.c10r.facebook.com"
-        ],
-        "to_test": []
+        ]
     }
 }
