@@ -10848,9 +10848,7 @@
             "z-m-static-eze2-5.fbcdn.net",
             "z-m-static-eze2-6.fbcdn.net",
             "z-m-static-eze2-7.fbcdn.net",
-            "z-m-static-eze2-8.fbcdn.net"
-        ],
-        "to_test": [
+            "z-m-static-eze2-8.fbcdn.net",
             "z-m-static-eze2-9.fbcdn.net",
             "z-m-static-eze3-1.fbcdn.net",
             "z-m-static-eze3-2.fbcdn.net",
@@ -12650,6 +12648,7 @@
             "z-p2-upload.facebook.com",
             "z-p2.facebook.com",
             "z.c10r.facebook.com"
-        ]
+        ],
+        "to_test": []
     }
 }
