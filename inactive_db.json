@@ -10536,9 +10536,7 @@
             "z-m-scontent-yyz1-1.fbcdn.net",
             "z-m-scontent-yyz1-2.fbcdn.net",
             "z-m-scontent-yyz1-3.fbcdn.net",
-            "z-m-scontent-yyz1-4.fbcdn.net"
-        ],
-        "to_test": [
+            "z-m-scontent-yyz1-4.fbcdn.net",
             "z-m-scontent-yyz1-5.fbcdn.net",
             "z-m-scontent-yyz1-6.fbcdn.net",
             "z-m-scontent-yyz1-7.fbcdn.net",
@@ -12676,6 +12674,7 @@
             "z-p2.facebook.com",
             "z.c10r.facebook.com",
             "zero-api-slb-10-08-prn1.facebook.com"
-        ]
+        ],
+        "to_test": []
     }
 }
