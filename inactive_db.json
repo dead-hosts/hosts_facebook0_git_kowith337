@@ -11650,16 +11650,6 @@
             "z-m-video-amt1-5.fbcdn.net",
             "z-m-video-amt1-6.fbcdn.net",
             "z-m-video-amt1-7.fbcdn.net",
-            "z-p1-rupload.facebook.com",
-            "z-p2-api.facebook.com",
-            "z-p2-graph.facebook.com",
-            "z-p2-rupload.facebook.com",
-            "z-p2-upload.facebook.com",
-            "z-p2.facebook.com",
-            "z.c10r.facebook.com",
-            "zero-api-slb-10-08-prn1.facebook.com"
-        ],
-        "to_test": [
             "z-m-video-amt1-8.fbcdn.net",
             "z-m-video-amt1-9.fbcdn.net",
             "z-m-video-amt2-1.fbcdn.net",
@@ -12679,7 +12669,16 @@
             "z-m-video-yyz3-6.fbcdn.net",
             "z-m-video-yyz3-7.fbcdn.net",
             "z-m-video-yyz3-8.fbcdn.net",
-            "z-m-video-yyz3-9.fbcdn.net"
-        ]
+            "z-m-video-yyz3-9.fbcdn.net",
+            "z-p1-rupload.facebook.com",
+            "z-p2-api.facebook.com",
+            "z-p2-graph.facebook.com",
+            "z-p2-rupload.facebook.com",
+            "z-p2-upload.facebook.com",
+            "z-p2.facebook.com",
+            "z.c10r.facebook.com",
+            "zero-api-slb-10-08-prn1.facebook.com"
+        ],
+        "to_test": []
     }
 }
