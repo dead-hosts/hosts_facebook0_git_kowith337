@@ -1,16 +1,21 @@
 {
-    "arguments": [],
-    "clean_list_file": "clean.list",
-    "clean_original": "1",
-    "commit_autosave_message": "Test of hosts_facebook0",
-    "currently_under_test": "0",
-    "days_until_next_test": "0",
-    "last_test": "1565462247",
-    "list_name": "hosts_facebook0.list",
-    "name": "hosts_facebook0",
+    "currently_under_test": false,
+    "custom_pyfunceble_config": {},
+    "days_until_next_test": 0.0,
+    "finish_datetime": "2019-08-12T13:08:57.996268",
+    "finish_timestamp": 1565615337.996268,
+    "last_download_datetime": "2019-08-12T13:07:01.222015",
+    "last_download_timestamp": 1565615221.222015,
+    "latest_part_finish_datetime": "2019-08-12T13:08:57.996268",
+    "latest_part_finish_timestamp": 1565615337.996268,
+    "latest_part_start_datetime": "2019-08-12T13:07:03.154832",
+    "latest_part_start_timestamp": 1565615223.154832,
+    "name": "hosts_facebook0_git_kowith337",
+    "own_management": false,
     "ping": [
-        "kowith337"
+        "@kowith337"
     ],
     "raw_link": "https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/test/hosts_facebook0.txt",
-    "stable": "0"
+    "start_datetime": "2019-08-12T13:07:03.150733",
+    "start_timestamp": 1565615223.150733
 }
