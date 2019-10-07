@@ -77,6 +77,23 @@
         "1569857634": {},
         "1570273859": {},
         "1570360882": {
+            "z-p3-scontent.fbkk3-4.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk3-5.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk3-6.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk3-7.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk3-8.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk4-4.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk4-5.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk4-6.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk4-7.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk4-8.fna.fbcdn.net": "INACTIVE",
+            "z-p42-api.facebook.com": "INACTIVE",
+            "z-p42-graph.facebook.com": "INACTIVE",
+            "z-p42-rupload.facebook.com": "INACTIVE",
+            "z-p42-upload.facebook.com": "INACTIVE",
+            "z-p42.facebook.com": "INACTIVE"
+        },
+        "1570452038": {
             "edge-z-m-shv-01-cdg2.facebook.com": "INACTIVE",
             "edge-z-m-shv-01-syd1.facebook.com": "INACTIVE",
             "edge-z-m-shv-03-prn2.facebook.com": "INACTIVE",
@@ -119,22 +136,7 @@
             "z-p3-scontent.fbkk1-6.fna.fbcdn.net": "INACTIVE",
             "z-p3-scontent.fbkk1-7.fna.fbcdn.net": "INACTIVE",
             "z-p3-scontent.fbkk1-8.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk2-1.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk3-4.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk3-5.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk3-6.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk3-7.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk3-8.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk4-4.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk4-5.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk4-6.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk4-7.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk4-8.fna.fbcdn.net": "INACTIVE",
-            "z-p42-api.facebook.com": "INACTIVE",
-            "z-p42-graph.facebook.com": "INACTIVE",
-            "z-p42-rupload.facebook.com": "INACTIVE",
-            "z-p42-upload.facebook.com": "INACTIVE",
-            "z-p42.facebook.com": "INACTIVE"
+            "z-p3-scontent.fbkk2-1.fna.fbcdn.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_facebook0_git_kowith337/hosts_facebook0.list": {
