@@ -11,7 +11,7 @@ command_before_end: ""
 # Set the custom IP to use when we generate a line in the hosts file format.
 custom_ip: "0.0.0.0"
 # Set the number of day(s) between each retest of the INACTIVE and INVALID elements which are present into inactive_db.json
-days_between_db_retest: 7
+days_between_db_retest: 1
 # Set the db type to use.
 db_type: json
 # Enable / disable the generation of debug file(s).
@@ -82,7 +82,7 @@ split: True
 # In this mode we do not check for the availability. It's just syntax check.
 syntax: False
 # Set the timeout to apply when a timeout can be set.
-timeout: 8
+timeout: 5
 # Enable / disable the Travis CI autosave system.
 travis: False
 # Set the default commit message we have to use when have to save but we did not finished the test.
