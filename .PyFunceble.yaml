@@ -9,8 +9,8 @@ db_type: json
 debug: false
 dns_lookup_over_tcp: false
 dns_server:
-- 1.1.1.1
 - 1.0.0.1
+- 1.1.1.1
 filter: ''
 generate_complements: false
 generate_hosts: true
@@ -64,7 +64,7 @@ http_codes:
         - 204
         - 205
         - 206
-    not_found_default: XXX
+    not_found_default: xxx
 iana_whois_server: whois.iana.org
 idna_conversion: true
 inactive_database: true
