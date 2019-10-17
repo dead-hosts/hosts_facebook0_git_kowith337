@@ -1,156 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_facebook0_git_kowith337/domains.list": {
-        "1571135440": {
-            "fna-fbcdn-z-1-shv-02-fmia1.fbcdn.net": "INACTIVE"
-        },
-        "1571135441": {
-            "edge-star-z-mini-shv-01-cdt1.facebook.com": "INACTIVE",
-            "z-p42-upload.facebook.com": "INACTIVE"
-        },
-        "1571135444": {
-            "z-m-scontent.fbkk22-8.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135445": {
-            "fna-fbcdn-z-m-shv-01-fmia1.fbcdn.net": "INACTIVE",
-            "fna-fbcdn-z-p1-shv-01-fapa1.fbcdn.net": "INACTIVE",
-            "z-p3-graph.facebook.com": "INACTIVE",
-            "zero.internet.org": "INACTIVE"
-        },
-        "1571135446": {
-            "fna-fbcdn-z-1-shv-01-fapa1.fbcdn.net": "INACTIVE"
-        },
-        "1571135448": {
-            "fna-fbcdn-z-m-shv-02-fbna1.fbcdn.net": "INACTIVE",
-            "z-p42-api.facebook.com": "INACTIVE"
-        },
-        "1571135450": {
-            "fna-fbcdn-z-p3-shv-02-fmia1.fbcdn.net": "INACTIVE",
-            "z-1-scontent.fbkk1-1.fna.fbcdn.net": "INACTIVE",
-            "z-m-scontent.fmex1-3.fna.fbcdn.net": "INACTIVE",
-            "z-p3-video.fsea1-1.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135451": {
-            "fna-fbcdn-z-p3-shv-01-fmia1.fbcdn.net": "INACTIVE",
-            "z-m-scontent.fbkk4-5.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135452": {
-            "edge-z-m-mini-shv-17-prn1.facebook.com": "INACTIVE",
-            "z-m-scontent.fbkk22-5.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135453": {
-            "fna-fbcdn-z-p1-shv-02-fmia1.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk22-6.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135454": {
-            "z-m-scontent.fceb3-1.fna.fbcdn.net": "INACTIVE",
-            "z-p3-external.fsea1-1.fna.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk1-7.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135455": {
-            "graph.internet.org": "INACTIVE",
-            "z-m-scontent.fbkk4-6.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135456": {
-            "o.internet.org": "INACTIVE",
-            "z-p3-rupload.facebook.com": "INACTIVE"
-        },
-        "1571135457": {
-            "z-m-a-api.facebook.com": "INACTIVE"
-        },
-        "1571135588": {
-            "fna-fbcdn-z-p1-shv-01-fgla1.fbcdn.net": "INACTIVE"
-        },
-        "1571135589": {
-            "z-m-scontent.fceb4-1.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135591": {
-            "z-m-fbcdn-shv-01-frt3.fbcdn.net": "INACTIVE",
-            "z-p3-scontent.fbkk1-2.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135592": {
-            "fna-fbcdn-z-p3-shv-04-fmaa1.fbcdn.net": "INACTIVE",
-            "z-p1-rupload.facebook.com": "INACTIVE",
-            "z-p2-rupload.facebook.com": "INACTIVE"
-        },
-        "1571135594": {
-            "fna-fbcdn-z-p4-shv-01-fsea1.fbcdn.net": "INACTIVE",
-            "z-m-scontent.fdac2-3.fna.fbcdn.net": "INACTIVE",
-            "z-m-scontent.fmex4-3.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135595": {
-            "z-m-scontent.fbkk22-7.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135596": {
-            "fna-fbcdn-z-p4-shv-02-fbna1.fbcdn.net": "INACTIVE",
-            "z-1-scontent.fbkk2-1.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135728": {
-            "fna-fbcdn-z-p1-shv-01-fmaa1.fbcdn.net": "INACTIVE"
-        },
-        "1571135730": {
-            "z-m-scontent.fdac1-2.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571135731": {
-            "fna-fbcdn-z-1-shv-03-fmaa1.fbcdn.net": "INACTIVE",
-            "z-m-static-dft.xx.fbcdn.net": "INACTIVE",
-            "zero.freebasics.com": "INACTIVE"
-        },
-        "1571135732": {
-            "z-m-fbcdn-mini-shv-01-ord1.fbcdn.net": "INACTIVE",
-            "z-p4-rupload.facebook.com": "INACTIVE"
-        },
-        "1571135733": {
-            "z-m-b-api.facebook.com": "INACTIVE"
-        },
-        "1571135734": {
-            "z-p3-scontent.fbkk1-8.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571140350": {
-            "z-p1-graph.facebook.com": "INACTIVE"
-        },
-        "1571140351": {
-            "z-p3-scontent.fbkk2-1.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571140352": {
-            "z-m-scontent.fmex1-2.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571140353": {
-            "edge-z-m-mini-shv-02-mia1.facebook.com": "INACTIVE",
-            "z-p3-scontent.fbkk4-5.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571140354": {
-            "fna-fbcdn-z-m-shv-02-fmia1.fbcdn.net": "INACTIVE",
-            "z-p42-static.xx.fbcdn.net": "INACTIVE"
-        },
-        "1571140355": {
-            "fna-fbcdn-z-1-shv-01-fsea1.fbcdn.net": "INACTIVE",
-            "z-1-scontent.fmaa10-1.fna.fbcdn.net": "INACTIVE",
-            "z-m-scontent.fbkk1-6.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571140356": {
-            "edge-z-m-mini-shv-06-atn1.facebook.com": "INACTIVE",
-            "mqtt-z-shv-16-frc1.facebook.com": "INACTIVE",
-            "z-m-scontent.fbkk4-8.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571140357": {
-            "z-m-scontent.fbkk2-1.fna.fbcdn.net": "INACTIVE",
-            "z-p2-graph.facebook.com": "INACTIVE"
-        },
-        "1571140358": {
-            "z-m-scontent.fceb3-2.fna.fbcdn.net": "INACTIVE",
-            "z-p3-lookaside.fbsbx.com": "INACTIVE"
-        },
-        "1571140359": {
-            "fna-fbcdn-z-1-shv-02-fbna1.fbcdn.net": "INACTIVE",
-            "headers-regional.vvv.facebook.com": "INACTIVE",
-            "z-1-external.fsea1-1.fna.fbcdn.net": "INACTIVE"
-        },
-        "1571140360": {
-            "edge-star-z-mini-shv-01-bru2.facebook.com": "INACTIVE"
-        },
-        "1571140361": {
-            "fna-fbcdn-z-1-shv-02-fmaa1.fbcdn.net": "INACTIVE"
-        },
         "1571310461": {
             "fna-fbcdn-z-p4-shv-01-fmia1.fbcdn.net": "INACTIVE"
         },
@@ -348,6 +197,111 @@
         },
         "1571310882": {
             "edge-star-z-mini-shv-01-sea1.facebook.com": "INACTIVE"
+        },
+        "1571314293": {
+            "z-p3-lookaside.fbsbx.com": "INACTIVE",
+            "z-p3-rupload.facebook.com": "INACTIVE"
+        },
+        "1571314294": {
+            "graph.internet.org": "INACTIVE",
+            "z-m-scontent.fbkk22-7.fna.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fdac2-3.fna.fbcdn.net": "INACTIVE"
+        },
+        "1571314295": {
+            "fna-fbcdn-z-1-shv-01-fapa1.fbcdn.net": "INACTIVE",
+            "fna-fbcdn-z-1-shv-03-fmaa1.fbcdn.net": "INACTIVE",
+            "fna-fbcdn-z-m-shv-01-fmia1.fbcdn.net": "INACTIVE",
+            "fna-fbcdn-z-m-shv-02-fmia1.fbcdn.net": "INACTIVE",
+            "z-m-fbcdn-mini-shv-01-ord1.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fmex4-3.fna.fbcdn.net": "INACTIVE"
+        },
+        "1571314296": {
+            "edge-star-z-mini-shv-01-cdt1.facebook.com": "INACTIVE",
+            "fna-fbcdn-z-1-shv-01-fsea1.fbcdn.net": "INACTIVE",
+            "mqtt-z-shv-16-frc1.facebook.com": "INACTIVE",
+            "z-p3-scontent.fbkk1-7.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk2-1.fna.fbcdn.net": "INACTIVE",
+            "z-p4-rupload.facebook.com": "INACTIVE"
+        },
+        "1571314297": {
+            "fna-fbcdn-z-m-shv-02-fbna1.fbcdn.net": "INACTIVE",
+            "z-1-external.fsea1-1.fna.fbcdn.net": "INACTIVE",
+            "z-1-scontent.fbkk1-1.fna.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fceb4-1.fna.fbcdn.net": "INACTIVE",
+            "zero.freebasics.com": "INACTIVE"
+        },
+        "1571314298": {
+            "edge-z-m-mini-shv-06-atn1.facebook.com": "INACTIVE",
+            "edge-z-m-mini-shv-17-prn1.facebook.com": "INACTIVE",
+            "fna-fbcdn-z-p1-shv-01-fmaa1.fbcdn.net": "INACTIVE",
+            "z-m-fbcdn-shv-01-frt3.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fbkk4-5.fna.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fbkk4-6.fna.fbcdn.net": "INACTIVE"
+        },
+        "1571314299": {
+            "fna-fbcdn-z-p3-shv-01-fmia1.fbcdn.net": "INACTIVE",
+            "z-m-b-api.facebook.com": "INACTIVE",
+            "z-m-scontent.fbkk2-1.fna.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fceb3-1.fna.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fdac1-2.fna.fbcdn.net": "INACTIVE",
+            "z-p1-rupload.facebook.com": "INACTIVE"
+        },
+        "1571314300": {
+            "fna-fbcdn-z-p1-shv-02-fmia1.fbcdn.net": "INACTIVE",
+            "headers-regional.vvv.facebook.com": "INACTIVE",
+            "z-m-scontent.fbkk4-8.fna.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fceb3-2.fna.fbcdn.net": "INACTIVE",
+            "z-p2-graph.facebook.com": "INACTIVE",
+            "z-p3-scontent.fbkk22-6.fna.fbcdn.net": "INACTIVE"
+        },
+        "1571314301": {
+            "fna-fbcdn-z-p1-shv-01-fgla1.fbcdn.net": "INACTIVE",
+            "fna-fbcdn-z-p3-shv-02-fmia1.fbcdn.net": "INACTIVE",
+            "z-p2-rupload.facebook.com": "INACTIVE",
+            "z-p3-external.fsea1-1.fna.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk1-2.fna.fbcdn.net": "INACTIVE"
+        },
+        "1571314302": {
+            "edge-z-m-mini-shv-02-mia1.facebook.com": "INACTIVE",
+            "z-1-scontent.fbkk2-1.fna.fbcdn.net": "INACTIVE",
+            "z-1-scontent.fmaa10-1.fna.fbcdn.net": "INACTIVE",
+            "z-m-a-api.facebook.com": "INACTIVE",
+            "z-p1-graph.facebook.com": "INACTIVE",
+            "z-p3-scontent.fbkk1-8.fna.fbcdn.net": "INACTIVE"
+        },
+        "1571314303": {
+            "fna-fbcdn-z-1-shv-02-fbna1.fbcdn.net": "INACTIVE",
+            "fna-fbcdn-z-p1-shv-01-fapa1.fbcdn.net": "INACTIVE",
+            "o.internet.org": "INACTIVE",
+            "z-p42-api.facebook.com": "INACTIVE",
+            "z-p42-upload.facebook.com": "INACTIVE",
+            "zero.internet.org": "INACTIVE"
+        },
+        "1571314304": {
+            "edge-star-z-mini-shv-01-bru2.facebook.com": "INACTIVE",
+            "fna-fbcdn-z-p4-shv-01-fsea1.fbcdn.net": "INACTIVE",
+            "fna-fbcdn-z-p4-shv-02-fbna1.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fbkk22-8.fna.fbcdn.net": "INACTIVE",
+            "z-p3-graph.facebook.com": "INACTIVE"
+        },
+        "1571314305": {
+            "fna-fbcdn-z-1-shv-02-fmia1.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fbkk1-6.fna.fbcdn.net": "INACTIVE",
+            "z-m-static-dft.xx.fbcdn.net": "INACTIVE",
+            "z-p3-scontent.fbkk4-5.fna.fbcdn.net": "INACTIVE"
+        },
+        "1571314306": {
+            "fna-fbcdn-z-1-shv-02-fmaa1.fbcdn.net": "INACTIVE"
+        },
+        "1571314307": {
+            "fna-fbcdn-z-p3-shv-04-fmaa1.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fmex1-2.fna.fbcdn.net": "INACTIVE",
+            "z-m-scontent.fmex1-3.fna.fbcdn.net": "INACTIVE",
+            "z-p3-video.fsea1-1.fna.fbcdn.net": "INACTIVE",
+            "z-p42-static.xx.fbcdn.net": "INACTIVE"
+        },
+        "1571314308": {
+            "z-m-scontent.fbkk22-5.fna.fbcdn.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_facebook0_git_kowith337/hosts_facebook0.list": {
