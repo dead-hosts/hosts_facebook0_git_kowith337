@@ -1,21 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_facebook0_git_kowith337/domains.list": {
-        "1585053082": {
-            "edge-z-ecmp-02-ord1.facebook.com": "INACTIVE",
-            "mqtt-z-shv-16-frc1.facebook.com": "INACTIVE",
-            "z-p1-instagram.c10r.facebook.com": "INACTIVE",
-            "z-p1.graph.instagram.com": "INACTIVE",
-            "z-p1.i.instagram.com": "INACTIVE",
-            "z-p1.maps.instagram.com": "INACTIVE",
-            "z-p1.upload.instagram.com": "INACTIVE",
-            "z-p1.www.instagram.com": "INACTIVE",
-            "z-p3-instagram.c10r.facebook.com": "INACTIVE",
-            "z-p3.graph.instagram.com": "INACTIVE",
-            "z-p3.i.instagram.com": "INACTIVE",
-            "z-p3.maps.instagram.com": "INACTIVE",
-            "z-p3.upload.instagram.com": "INACTIVE",
-            "zero-api-slb-10-08-prn1.facebook.com": "INACTIVE"
-        },
         "1585307853": {
             "0.facebook.com.cgi-bin.nph-roxy.cgi.0.http.0.facebook.com": "INACTIVE",
             "0.indosat.com.0.facebook.com": "INACTIVE",
@@ -212,6 +196,22 @@
             "z-p3-scontent.fmad3-2.fna.fbcdn.net": "INACTIVE",
             "z-p3-scontent.fmad3-5.fna.fbcdn.net": "INACTIVE",
             "z-p3-scontent.fsst1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1585312424": {
+            "edge-z-ecmp-02-ord1.facebook.com": "INACTIVE",
+            "mqtt-z-shv-16-frc1.facebook.com": "INACTIVE",
+            "z-p1-instagram.c10r.facebook.com": "INACTIVE",
+            "z-p1.graph.instagram.com": "INACTIVE",
+            "z-p1.i.instagram.com": "INACTIVE",
+            "z-p1.maps.instagram.com": "INACTIVE",
+            "z-p1.upload.instagram.com": "INACTIVE",
+            "z-p1.www.instagram.com": "INACTIVE",
+            "z-p3-instagram.c10r.facebook.com": "INACTIVE",
+            "z-p3.graph.instagram.com": "INACTIVE",
+            "z-p3.i.instagram.com": "INACTIVE",
+            "z-p3.maps.instagram.com": "INACTIVE",
+            "z-p3.upload.instagram.com": "INACTIVE",
+            "zero-api-slb-10-08-prn1.facebook.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_facebook0_git_kowith337/hosts_facebook0.list": {
