@@ -2,14 +2,14 @@
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 7.0,
-    "finish_datetime": "2020-03-30T22:49:57.535937",
-    "finish_timestamp": 1585608597.535937,
-    "last_download_datetime": "2020-03-30T22:42:24.892083",
-    "last_download_timestamp": 1585608144.892083,
-    "latest_part_finish_datetime": "2020-03-30T22:49:57.535937",
-    "latest_part_finish_timestamp": 1585608597.535937,
-    "latest_part_start_datetime": "2020-03-30T22:42:25.423863",
-    "latest_part_start_timestamp": 1585608145.423863,
+    "finish_datetime": "2020-04-01T11:09:33.543209",
+    "finish_timestamp": 1585739373.543209,
+    "last_download_datetime": "2020-04-01T11:01:22.871874",
+    "last_download_timestamp": 1585738882.871874,
+    "latest_part_finish_datetime": "2020-04-01T11:09:33.543209",
+    "latest_part_finish_timestamp": 1585739373.543209,
+    "latest_part_start_datetime": "2020-04-01T11:01:23.530850",
+    "latest_part_start_timestamp": 1585738883.53085,
     "live_update": true,
     "name": "hosts_facebook0_git_kowith337",
     "own_management": false,
@@ -17,6 +17,6 @@
         "@kowith337"
     ],
     "raw_link": "https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/test/hosts_facebook0.txt",
-    "start_datetime": "2020-03-30T22:42:25.421378",
-    "start_timestamp": 1585608145.421378
+    "start_datetime": "2020-04-01T11:01:23.527771",
+    "start_timestamp": 1585738883.527771
 }
