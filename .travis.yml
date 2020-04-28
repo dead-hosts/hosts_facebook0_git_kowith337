@@ -7,7 +7,6 @@ env:
     -   secure: lXxqiKF7rzm2MX5EVBwZWtwrJq1q2wqNa+FYFfpgcJ4K4MIu8PtRiT03gVU26EUCVIciVMpgKrjmX4X1DmnBe3tRvqbI71F+g88Edsr/CV3uF5hjBhWLdB7Ag/Yv8bFgqpGxMhgghGFz7H2uFD5yIZBC8UmTPYnZTtVg1+2hhoZLh+h/fIR7x3wyUMT86LOnNnxSUkHRKqZrs9ovRK72sYEUlUJ+F500wWPtpBAhb7rTQyoK5qWoZMfRb3Ryzeg3P3zcRLBswhPBaVgK51tMpo7BC9Rf7M4GDCADbja6a/Add0sewctO5GNwhAAEVx1WF9deyRlUfBtEO42zQglqK+f/JGCsUTM3CH8flcRRfRd5Wg+utwY5NyN3GjHl0PtvvGv4U+lgzP45TPHPOBj5Gzjxk/qlE5lOO+t6ugpob0QwwQspZDQ4bCSbyJ+IsNBdX1b0JEU8frSHGNL4t8+pSCk75cfHNwPCdAUpL+GZkPWdGGAOAe/Zr/wwcRF/cnz+IsqlMT7YZ1A9UbPM9xLPmLLX1UAgfryy/c2PhO5OGFXcToAW+y0YeaII7+7ALQyrXxBoiBHMezyzLV+JPfV34HDFp7vCcQLrvjqDiHbw8IH1rAxowZEKUBXuGOjn3Dtik2JgZcte+RkrEi/IfTRkVfSVkPWShswC5/137dLDq0w=
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: dead-hosts/hosts_facebook0_git_kowith337
     -   GIT_BRANCH: master
     matrix:
     - PYTHON_VERSION="3.7.3"
@@ -30,7 +29,7 @@ notifications:
         on_failure: always
         on_success: never
         recipients:
-        - dead-hosts@funilrys.com
+        - dead-hosts@outlook.com
 os:
 - linux
 script:
