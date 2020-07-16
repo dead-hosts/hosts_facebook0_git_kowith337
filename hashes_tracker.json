@@ -1,0 +1,13 @@
+{
+    "/home/travis/build/dead-hosts/hosts_facebook0_git_kowith337/domains.list": {
+        "base": {
+            "datetime_iso": "2020-07-16T10:15:23.725882",
+            "hash": "fc7ba703abc6d666b2ab8410a3ad7f616e33f699ea132ae8616af4c2"
+        },
+        "latest": {
+            "datetime_iso": "2020-07-16T10:15:23.725882",
+            "hash": "fc7ba703abc6d666b2ab8410a3ad7f616e33f699ea132ae8616af4c2"
+        },
+        "position": 0
+    }
+}
