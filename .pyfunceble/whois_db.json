@@ -1,4 +1,9 @@
 {
+    "discoverapp.com": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "expresswifi.com": {
         "epoch": 1834617600.0,
         "expiration_date": "20-feb-2028",
