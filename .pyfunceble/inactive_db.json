@@ -729,10 +729,10 @@
             "status": "INACTIVE"
         },
         "nz-1-video.fszb1-1.fna.fbcdn.net": {
-            "included_at_epoch": 1597178206.425296,
-            "included_at_iso": "2020-08-11T20:36:46.425296",
-            "last_retested_at_epoch": 1598560467.636544,
-            "last_retested_at_iso": "2020-08-27T20:34:27.636544",
+            "included_at_epoch": 1599943251.65436,
+            "included_at_iso": "2020-09-12T20:40:51.654360",
+            "last_retested_at_epoch": 1599943251.65436,
+            "last_retested_at_iso": "2020-09-12T20:40:51.654360",
             "status": "INACTIVE"
         },
         "php.0.facebook.com": {
@@ -953,10 +953,10 @@
             "status": "INACTIVE"
         },
         "z-1-video.fszb1-1.fna.fbcdn.net": {
-            "included_at_epoch": 1597178216.109319,
-            "included_at_iso": "2020-08-11T20:36:56.109319",
-            "last_retested_at_epoch": 1598560477.109028,
-            "last_retested_at_iso": "2020-08-27T20:34:37.109028",
+            "included_at_epoch": 1599943252.361227,
+            "included_at_iso": "2020-09-12T20:40:52.361227",
+            "last_retested_at_epoch": 1599943252.361227,
+            "last_retested_at_iso": "2020-09-12T20:40:52.361227",
             "status": "INACTIVE"
         },
         "z-1.c10r.facebook.com": {
@@ -1394,10 +1394,10 @@
             "status": "INACTIVE"
         },
         "z-p3-scontent.fszb1-1.fna.fbcdn.net": {
-            "included_at_epoch": 1597178215.892734,
-            "included_at_iso": "2020-08-11T20:36:55.892734",
-            "last_retested_at_epoch": 1598560476.911055,
-            "last_retested_at_iso": "2020-08-27T20:34:36.911055",
+            "included_at_epoch": 1599943252.164008,
+            "included_at_iso": "2020-09-12T20:40:52.164008",
+            "last_retested_at_epoch": 1599943252.164008,
+            "last_retested_at_iso": "2020-09-12T20:40:52.164008",
             "status": "INACTIVE"
         },
         "z-p3.graph.instagram.com": {
