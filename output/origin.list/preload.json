@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/hosts_facebook0_git_kowith337/hosts_facebook0_git_kowith337/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
-    "hash": "7f7e7f240e4856338db7546d510822b8a2df257760dd854bb2762021",
+    "hash": "7ec28e53f079b982b84b573ea7a3c33ca545ba7ab09c38ac40a4abff",
     "line_number": 1467,
     "output_dir": "/home/runner/work/hosts_facebook0_git_kowith337/hosts_facebook0_git_kowith337/output/origin.list",
-    "previous_hash": "7f7e7f240e4856338db7546d510822b8a2df257760dd854bb2762021",
-    "rel_source": "origin.list",
-    "session_id": "045e27d80670f2a50f6f8f68",
-    "source": "/home/runner/work/hosts_facebook0_git_kowith337/hosts_facebook0_git_kowith337/origin.list",
-    "subject": "/home/runner/work/hosts_facebook0_git_kowith337/hosts_facebook0_git_kowith337/origin.list",
+    "previous_hash": "7ec28e53f079b982b84b573ea7a3c33ca545ba7ab09c38ac40a4abff",
+    "session_id": "f14996f7ab5b1ee808bc8864",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
