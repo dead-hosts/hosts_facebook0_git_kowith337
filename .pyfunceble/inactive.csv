@@ -220,3 +220,16 @@ z-p3-instagram.c10r.facebook.com,AVAILABILITY,origin.list,2021-01-23 18:37:17.56
 edge-z-ecmp-02-ord1.facebook.com,AVAILABILITY,origin.list,2021-01-23 18:38:23.121861
 mqtt-z-shv-16-frc1.facebook.com,AVAILABILITY,origin.list,2021-01-23 18:38:28.648730
 zero-api-slb-10-08-prn1.facebook.com,AVAILABILITY,origin.list,2021-01-23 18:38:37.927591
+z-1-external-ort2-2.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:44:23.711964
+z-p3-external-cai1-1.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:44:43.637456
+z-p3-external-hkg3-1.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:44:54.059529
+nz-m-scontent-amt.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:47:38.778163
+nz-m-scontent-eze.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:47:44.533841
+nz-m-scontent-lhr.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:47:50.336639
+nz-m-scontent-mad.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:47:56.022243
+nz-m-scontent-tpe.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:48:01.606824
+nz-m-video-atl.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:48:07.268304
+nz-m-video-bru.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:48:12.908103
+nz-m-video-eze.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:48:18.637850
+nz-m-video-lax.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:48:25.425628
+nz-m-video-lht.xx.fbcdn.net,AVAILABILITY,origin.list,2021-04-01 17:48:31.087629
