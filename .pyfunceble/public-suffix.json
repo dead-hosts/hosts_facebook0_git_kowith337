@@ -167,6 +167,7 @@
     "app": [
         "a.run.app",
         "bookonline.app",
+        "developer.app",
         "edgecompute.app",
         "fireweb.app",
         "framer.app",
@@ -174,6 +175,7 @@
         "loginline.app",
         "multibaas.app",
         "netlify.app",
+        "noop.app",
         "northflank.app",
         "ondigitalocean.app",
         "platform0.app",
@@ -1556,6 +1558,8 @@
         "deno.dev",
         "fly.dev",
         "gateway.dev",
+        "github.dev",
+        "githubpreview.dev",
         "iserv.dev",
         "lcl.dev",
         "lclstage.dev",
@@ -7702,7 +7706,8 @@
         "store.st"
     ],
     "store": [
-        "shopware.store"
+        "shopware.store",
+        "storebase.store"
     ],
     "su": [
         "abkhazia.su",
