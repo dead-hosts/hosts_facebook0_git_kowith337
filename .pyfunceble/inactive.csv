@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-z-p42-instagram.fada1-1.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-21 06:34:17.541210
-edge-z-m-mini-shv-01-fco1.facebook.com,AVAILABILITY,origin.list,2021-06-21 06:34:45.218246
-edge-z-p4-shv-01-fco1.facebook.com,AVAILABILITY,origin.list,2021-06-21 06:34:50.634667
-z-p42-instagram.fbtz1-9.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-21 06:34:56.147104
-z-p3-scontent.fmct2-2.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-21 06:35:01.607750
-z-p3-scontent.fmct3-2.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-21 06:35:07.042404
-z-p3-video.fccs1-1.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-21 06:35:12.517720
-fbtokenizerdogfood.in.xwf.internet.org,AVAILABILITY,origin.list,2021-06-21 06:35:19.427095
-iconnectwe.in.xwf.internet.org,AVAILABILITY,origin.list,2021-06-21 06:35:25.800883
-netvision.in.xwf.internet.org,AVAILABILITY,origin.list,2021-06-21 06:35:32.358822
-z-p42-instagram.fsaw1-3.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-21 06:35:37.749201
 z-m-scontent-lht.xx.fbcdn.net,AVAILABILITY,origin.list,2021-06-21 06:35:43.256677
 z-m-static-lht.xx.fbcdn.net,AVAILABILITY,origin.list,2021-06-21 06:35:48.739079
 z-m-video-lht.xx.fbcdn.net,AVAILABILITY,origin.list,2021-06-21 06:35:54.131278
@@ -283,3 +272,16 @@ z-p3-instagram.c10r.facebook.com,AVAILABILITY,origin.list,2021-06-21 07:08:01.32
 edge-z-ecmp-02-ord1.facebook.com,AVAILABILITY,origin.list,2021-06-21 07:08:06.776175
 mqtt-z-shv-16-frc1.facebook.com,AVAILABILITY,origin.list,2021-06-21 07:08:12.152453
 zero-api-slb-10-08-prn1.facebook.com,AVAILABILITY,origin.list,2021-06-21 07:08:17.637927
+z-p3-scontent.fmga1-1.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-28 10:56:00.929923
+z-p42-instagram.fada1-10.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-28 11:11:52.892776
+z-p42-instagram.fada1-1.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-28 11:12:17.523741
+edge-z-m-mini-shv-01-fco1.facebook.com,AVAILABILITY,origin.list,2021-06-28 11:12:23.483380
+edge-z-p4-shv-01-fco1.facebook.com,AVAILABILITY,origin.list,2021-06-28 11:12:29.180686
+z-p42-instagram.fbtz1-9.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-28 11:12:34.914091
+z-p3-scontent.fmct2-2.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-28 11:12:40.756804
+z-p3-scontent.fmct3-2.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-28 11:12:46.536956
+z-p3-video.fccs1-1.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-28 11:12:52.200226
+fbtokenizerdogfood.in.xwf.internet.org,AVAILABILITY,origin.list,2021-06-28 11:12:59.165103
+iconnectwe.in.xwf.internet.org,AVAILABILITY,origin.list,2021-06-28 11:13:06.070084
+netvision.in.xwf.internet.org,AVAILABILITY,origin.list,2021-06-28 11:13:12.752746
+z-p42-instagram.fsaw1-3.fna.fbcdn.net,AVAILABILITY,origin.list,2021-06-28 11:13:18.493788
