@@ -1,6 +1,6 @@
 # [uMatrix 1.3.15.100]
 # Title: Facebook Zero Hosts Block (Test unit)
-# Version: 202106181810
+# Version: 202107091223
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts
@@ -10,28 +10,28 @@
 #          https://github.com/anudeepND/blacklist/raw/master/facebook.txt
 #          https://github.com/random-robbie/bugbounty-scans/raw/master/facebook.com/urls.txt
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-# Description: This aim to block non-formal hosts that serve all Facebook contents and resources from alternative "Zero" servers
-#              that it happen when you're using on mobile data over the carrier that collaborate with Facebook to have that
-#              service, include all of free services that promoted by Facebook and your local mobile operators who participated,
-#              e.g. "Free Basics", "Discover", etc.
-#              Currently, all of big 3 mobile carriers in my country are give up to Facebook by allow that services to be happen,
-#              and let it's service invade and interrupt the privacy, functionality and usability of Facebook itself.
-#              I'm against to that shady services because when I connect to Facebook over mobile data, it's start to show various
-#              of annoyance that likely "Facebook" trying to force me and all of other users to use that, include nasty and
-#              insecure traffic redirect, showing balloon party cover, inject purple bar above of page or in-app screen, show
+# Description: This aim to block non-formal hosts that serve all "Facebook" contents and resources from alternative "Zero"
+#              servers that it happen when you're using on mobile data over the carrier that collaborate with "Facebook" to have
+#              that service, include all of free services that promoted by "Facebook" and your local mobile operators who
+#              participated, e.g. "Free Basics", "Discover", etc.
+#              Currently, all of big 3 mobile carriers in my country are give up to "Facebook" by allow that services to be
+#              happen, and let it's service invade and interrupt the privacy, functionality and usability of "Facebook" itself.
+#              I'm against to that shady services because when I connect to "Facebook" over mobile data, it's start to show
+#              various of annoyance that likely "Facebook" trying to force me and all of other users to use that, include nasty
+#              and insecure traffic redirect, showing balloon party cover, inject purple bar above of page or in-app screen, show
 #              nagging pop-ups to buy mobile internet package or even prevent any videos to play on mobile data, although many
 #              users in my country are OK to use the unlimited data plan but limited the connectivity speed.
 #              In my opinion, I will keep block those connections, no matter about breaking the functionality and usability for
-#              using Facebook over mobile data until they abandone that services and return all connections to the original
+#              using "Facebook" over mobile data until they abandone that services and return all connections to the original
 #              favor, no redirects (include non-HTTPS), no nagging pop-ups to buy internet packages or forcing to use that
-#              service, just let it should be normal like I and/or we accessing Facebook at home or via Proxy/VPN!
+#              service, just let it should be normal like I and/or we accessing "Facebook" at home or via Proxy/VPN!
 # Note: All rules below will be use as test unit for @funilrys's "Dead Hosts" tools (aka. PyFunceble), however, some hosts entry
 #       are duplicated based from hosts name that found by myself and more entry from [Credits] source, Currently I'm still don't
 #       know how many "Free Basics" hosts name and servers are really existed?
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-# (*): Facebook should be thanks to old technologies (but we still using them nowadays) called "(x-)WAP", "MSISDN", etc. that
+# (*): "Facebook" should be thanks to old technologies (but we still using them nowadays) called "(x-)WAP", "MSISDN", etc. that
 #      possible to extract and/or resolve user's mobile number who use cellular data without hinting the users to manually fill
-#      their own numbers and submit to Facebook by themseleves, now some shady companies in my country use the same tactics above
+#      their own numbers and submit to "Facebook" by themseleves, now some shady companies in my country use the same tactics above
 #      to randomly add bulk mobile phone numbers to subscribe nasty, wasteful and also unwanted content supscriptions without any
 #      confirmations from user's side!
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
@@ -96,6 +96,7 @@
 0.0.0.0 z-upload.facebook.com
 # DiscoverApp - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 0.discoverapp.com
+0.0.0.0 https-www-google-co-th.0.discoverapp.com
 0.0.0.0 mobile.discoverapp.com
 0.0.0.0 web.discoverapp.com
 0.0.0.0 www.discoverapp.com
@@ -154,7 +155,7 @@
 0.0.0.0 xwfct.in.expresswifi.com
 0.0.0.0 z-graph.expresswifi.com
 # Facebook Lite - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-# > This potentially break and prevent accessing Facebook through official lite app, but I've just added due to have `z` in the
+# * This potentially break and prevent accessing Facebook through official lite app, but I've just added due to have `z` in the
 #   domain name that should be flagged as part of `zero servers` in my opinion.
 0.0.0.0 snaptu-z.facebook.com
 # Facebook 0 Subdomains - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
@@ -431,6 +432,199 @@
 0.0.0.0 z.freebasics.com
 0.0.0.0 zero.freebasics.com
 0.0.0.0 zero.server80.freebasics.com
+# Onavo i.org - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+0.0.0.0 0.i.org
+0.0.0.0 24sm.i.org
+0.0.0.0 3dd.top.i.org
+0.0.0.0 7.i.org
+0.0.0.0 aaa.i.org
+0.0.0.0 aaaa.i.org
+0.0.0.0 ab.i.org
+0.0.0.0 acaa.i.org
+0.0.0.0 accessnet.i.org
+0.0.0.0 acs.i.org
+0.0.0.0 ae.i.org
+0.0.0.0 aipp.i.org
+0.0.0.0 airnowap.i.org
+0.0.0.0 albankaldawl.i.org
+0.0.0.0 almiwzl.i.org
+0.0.0.0 alpar.i.org
+0.0.0.0 amah.i.org
+0.0.0.0 ans.i.org
+0.0.0.0 ap.i.org
+0.0.0.0 appalt.i.org
+0.0.0.0 autistic.i.org
+0.0.0.0 ba.i.org
+0.0.0.0 baili.i.org
+0.0.0.0 bancamontedeipasch.i.org
+0.0.0.0 bancamontepasch.i.org
+0.0.0.0 bics.i.org
+0.0.0.0 bitnam.i.org
+0.0.0.0 bookf.i.org
+0.0.0.0 c.i.org
+0.0.0.0 canli.i.org
+0.0.0.0 cdn-globe.0.i.org
+0.0.0.0 cftn.i.org
+0.0.0.0 cgsikcuek.i.org
+0.0.0.0 charl.i.org
+0.0.0.0 cirpem.i.org
+0.0.0.0 co.i.org
+0.0.0.0 content-available-to-author-only.i.org
+0.0.0.0 dc.i.org
+0.0.0.0 distances.i.org
+0.0.0.0 dlxodud1719.i.org
+0.0.0.0 dokuwik.i.org
+0.0.0.0 dscvr.i.org
+0.0.0.0 e-henta.i.org
+0.0.0.0 ej.i.org
+0.0.0.0 ejglrscmnvbqjgfryift.i.org
+0.0.0.0 ep.i.org
+0.0.0.0 equinit.i.org
+0.0.0.0 ethx.i.org
+0.0.0.0 eurok.i.org
+0.0.0.0 exhenta.i.org
+0.0.0.0 fa.i.org
+0.0.0.0 fastaccess.net.i.org
+0.0.0.0 fatf-gaf.i.org
+0.0.0.0 fe.i.org
+0.0.0.0 felin.i.org
+0.0.0.0 ffcpnul.i.org
+0.0.0.0 filmakines.i.org
+0.0.0.0 forensicswik.i.org
+0.0.0.0 fos.i.org
+0.0.0.0 g.i.org
+0.0.0.0 gamebeyts.ph.i.org
+0.0.0.0 gamebytes.i.org
+0.0.0.0 gamebytes.ph.i.org
+0.0.0.0 gcore.game.i.org
+0.0.0.0 gegabytes.game.i.org
+0.0.0.0 google-com.0.i.org
+0.0.0.0 google.com.0.i.org
+0.0.0.0 gruppomontepasch.i.org
+0.0.0.0 h.i.org
+0.0.0.0 hc.i.org
+0.0.0.0 hdegediz.i.org
+0.0.0.0 hdizlefilm.i.org
+0.0.0.0 hergundiz.i.org
+0.0.0.0 hhm.i.org
+0.0.0.0 hoshinorom.i.org
+0.0.0.0 hrc.i.org
+0.0.0.0 hs.i.org
+0.0.0.0 http-globe-com.0.i.org
+0.0.0.0 http-shaikhchat-wap--ka-com.0.i.org
+0.0.0.0 https-0-freebasics-com.0.i.org
+0.0.0.0 https-www-google-com-ph.0.i.org
+0.0.0.0 httpsecurevirus.i.org
+0.0.0.0 i.i.i.org
+0.0.0.0 ics.i.org
+0.0.0.0 ii.i.org
+0.0.0.0 inokhrk.i.org
+0.0.0.0 ituc-cs.i.org
+0.0.0.0 jc.i.org
+0.0.0.0 jeffspicol.i.org
+0.0.0.0 jenkins-c.i.org
+0.0.0.0 jjfoknt.i.org
+0.0.0.0 jjhgh.i.org
+0.0.0.0 jneurosc.i.org
+0.0.0.0 jw-ap.i.org
+0.0.0.0 k.i.org
+0.0.0.0 kinoprof.i.org
+0.0.0.0 kkzujdz.i.org
+0.0.0.0 km.i.org
+0.0.0.0 kuakin.i.org
+0.0.0.0 lghnjpm.i.org
+0.0.0.0 likhar.i.org
+0.0.0.0 lll.i.org
+0.0.0.0 lp.i.org
+0.0.0.0 m-dscvr.i.org
+0.0.0.0 mediawik.i.org
+0.0.0.0 memr.i.org
+0.0.0.0 methongtha.i.org
+0.0.0.0 minghu.i.org
+0.0.0.0 mkgandh.i.org
+0.0.0.0 mobile.i.org
+0.0.0.0 montedeipasch.i.org
+0.0.0.0 mountsina.i.org
+0.0.0.0 nach.i.org
+0.0.0.0 net.i.org
+0.0.0.0 new.i.org
+0.0.0.0 nflalumn.i.org
+0.0.0.0 nt.i.org
+0.0.0.0 o.i.org
+0.0.0.0 oglint.i.org
+0.0.0.0 ol.i.org
+0.0.0.0 oopperabalett.i.org
+0.0.0.0 openpl.i.org
+0.0.0.0 pailong.i.org
+0.0.0.0 ph.i.org
+0.0.0.0 phyw.i.org
+0.0.0.0 pm.i.org
+0.0.0.0 ppa.i.org
+0.0.0.0 ptushk.i.org
+0.0.0.0 pybfzjs.i.org
+0.0.0.0 qcr.i.org
+0.0.0.0 qwerxtkqnmbcjjymg.i.org
+0.0.0.0 rand.i.org
+0.0.0.0 raspberryp.i.org
+0.0.0.0 rationalwik.i.org
+0.0.0.0 rt.i.org
+0.0.0.0 salsal.i.org
+0.0.0.0 sektor.i.org
+0.0.0.0 semantic-mediawik.i.org
+0.0.0.0 shikimor.i.org
+0.0.0.0 siteap.i.org
+0.0.0.0 soapu.i.org
+0.0.0.0 soccerwik.i.org
+0.0.0.0 soeqmucougo.i.org
+0.0.0.0 som.i.org
+0.0.0.0 specchiodeitemp.i.org
+0.0.0.0 speedbytes.game.i.org
+0.0.0.0 sportsc.i.org
+0.0.0.0 sudokuwik.i.org
+0.0.0.0 superman.i.org
+0.0.0.0 swr.i.org
+0.0.0.0 tbgwyzm.i.org
+0.0.0.0 tdw.i.org
+0.0.0.0 telstra.gamebytes.ph.i.org
+0.0.0.0 telstra.i.org
+0.0.0.0 telstra.net.i.org
+0.0.0.0 tempur.i.org
+0.0.0.0 thefullwik.i.org
+0.0.0.0 theia.i.org
+0.0.0.0 timeap.i.org
+0.0.0.0 tjkathastaneler.i.org
+0.0.0.0 torrentap.i.org
+0.0.0.0 turkcealtyaz.i.org
+0.0.0.0 uiwalumn.i.org
+0.0.0.0 ul.i.org
+0.0.0.0 unitedwaymiam.i.org
+0.0.0.0 uqwnmai.i.org
+0.0.0.0 urantia-ua.i.org
+0.0.0.0 usn.i.org
+0.0.0.0 virus-design.i.org
+0.0.0.0 vy.i.org
+0.0.0.0 wdf.i.org
+0.0.0.0 weightage.i.org
+0.0.0.0 wr.i.org
+0.0.0.0 wv.i.org
+0.0.0.0 ww.i.org
+0.0.0.0 www.assoretiformazione.i.org
+0.0.0.0 www.dbank.co.i.org
+0.0.0.0 www.easyaccess.airtelworld.i.org
+0.0.0.0 www.google-com.0.i.org
+0.0.0.0 www.google.co.i.org
+0.0.0.0 www.hawk.i.org
+0.0.0.0 www.hsbc.co.i.org
+0.0.0.0 www.i.org
+0.0.0.0 www.store.i.org
+0.0.0.0 www.www.airtel.i.org
+0.0.0.0 www.www.i.org
+0.0.0.0 www.ynet.co.i.org
+0.0.0.0 xkuctmh.i.org
+0.0.0.0 y-ap.i.org
+0.0.0.0 y.i.org
+0.0.0.0 ycap.i.org
+0.0.0.0 yesilbilg.i.org
 # Internet.org  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 0.internet.org
 0.0.0.0 0.wap.internet.org
