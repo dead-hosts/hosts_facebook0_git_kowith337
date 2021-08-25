@@ -1,0 +1,15 @@
+[
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "70fd76b929ffaf63586fac42eb013bcc6c67c3f06855de604d5ae645",
+        "line_number": 1666,
+        "output_dir": "/home/runner/work/hosts_facebook0_git_kowith337/hosts_facebook0_git_kowith337/output/origin.list",
+        "previous_hash": "70fd76b929ffaf63586fac42eb013bcc6c67c3f06855de604d5ae645",
+        "session_id": "d33b75968f17cc56d6ca3aea",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
