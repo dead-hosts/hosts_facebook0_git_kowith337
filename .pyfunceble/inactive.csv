@@ -363,3 +363,8 @@ z-p3.upload.instagram.com,AVAILABILITY,origin.list,2023-03-20 05:33:20.545253
 z-p1.www.instagram.com,AVAILABILITY,origin.list,2023-03-20 05:33:20.556706
 edge-z-ecmp-02-ord1.facebook.com,AVAILABILITY,origin.list,2023-03-20 05:33:20.565402
 z-p3.i.instagram.com,AVAILABILITY,origin.list,2023-03-20 05:33:20.590223
+edge-z-m-mini-shv-01-any2.facebook.com,AVAILABILITY,origin.list,2023-03-28 05:31:47.042130
+edge-z-m-mini-shv-01-cdt1.facebook.com,AVAILABILITY,origin.list,2023-03-28 05:31:47.142722
+fna-fbcdn-z-m-shv-01-fgla1.fbcdn.net,AVAILABILITY,origin.list,2023-03-28 05:31:56.260808
+fna-fbcdn-z-p3-shv-01-fgla1.fbcdn.net,AVAILABILITY,origin.list,2023-03-28 05:31:57.875972
+fna-fbcdn-z-p4-shv-01-fgla1.fbcdn.net,AVAILABILITY,origin.list,2023-03-28 05:31:58.713401
